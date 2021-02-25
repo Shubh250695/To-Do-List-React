@@ -1,0 +1,15 @@
+.heading {
+  color:deeppink
+}
+
+.body {
+  padding:7px;
+  text-align: center;
+  border:2px #eee;
+  box-sizing: content-box;
+  height:auto;  
+}
+
+.btn:hover {
+  background: rgb(119, 224, 119);
+}

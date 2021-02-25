@@ -1,0 +1,18 @@
+.isItemCompleted-done {
+    text-decoration: line-through;
+    text-decoration-style: double;
+}
+
+.item {   
+    box-shadow: 2px 2px 2px 2px #ccc;
+    border: 2px #eee;
+    margin: 10px;
+    padding: 7px;
+    text-align: left
+}
+
+#taskHeading {
+    font-family: cursive;
+    border-bottom: solid;
+    border-width: 1px;
+}
